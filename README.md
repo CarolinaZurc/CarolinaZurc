@@ -6,19 +6,9 @@
 
 #### Welcome to my GitHub page! I am a Junior Full Stack Web Developer!
 
+<img align="right" alt="img" src="https://i.imgur.com/Suz4MwT.jpg" width="35%" height="auto" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CarolinaZurc&show_icons=true&hide_border=true" width="40%" height="auto" />
-
-###
-aaaaa
-###
-bbbbb
-###
-ccccc
-###
-ddddd
-###
-eeeee
 
 
 #### 💻 Programming languages and tools: 
@@ -35,4 +25,6 @@ eeeee
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
+<br>
 #### Thank you for visiting my GitHub! :)
+</br>
